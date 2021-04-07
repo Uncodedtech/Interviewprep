@@ -11,7 +11,7 @@
 * [Bringing all Data Structures and Algorithms under one Roof ⚡](https://github.com/Uncodedtech/NeoAlgo)
 * [All Algorithms implemented in Python](https://github.com/Uncodedtech/Python)
 * [A collection of algorithms and data structures](https://github.com/Uncodedtech/Algorithms)
-* [Resources for Competetive Programming](https://github.com/Uncodedtech/Competitive-Programming-Resources)
+* [Resources for Competitive Programming](https://github.com/Uncodedtech/Competitive-Programming-Resources)
 * [📝 Algorithms and data structures implemented in JavaScript](https://github.com/Uncodedtech/javascript-algorithms)
 
 
