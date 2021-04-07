@@ -19,10 +19,10 @@
 
 ### Development  
 
+* [A curated awesome list of lists of interview questions](https://github.com/Uncodedtech/awesome-interview-questions)
 * [🕸 No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"](https://github.com/Uncodedtech/front-end-interview-handbook)
 * [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/Uncodedtech/react)
 * [List of top 500 ReactJS Interview Questions & Answers](https://github.com/Uncodedtech/reactjs-interview-questions)
-* [A curated awesome list of lists of interview questions](https://github.com/Uncodedtech/awesome-interview-questions)
 * [📜 33 concepts every JavaScript developer should know](https://github.com/Uncodedtech/33-js-concepts)
 
 -----------------------------------------------------
