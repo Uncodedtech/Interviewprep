@@ -8,9 +8,9 @@
 * [materials to rock next coding interview](https://github.com/Uncodedtech/tech-interview-handbook)
 * [Learn how to design large-scale systems](https://github.com/Uncodedtech/system-design-primer)
 * [System design interview for IT companies](https://github.com/Uncodedtech/system-design-interview)
-* [Bringing all Data Structures and Algorithms under one Roof ⚡](https://github.com/Uncodedtech/NeoAlgo)
-* [A collection of algorithms and data structures](https://github.com/Uncodedtech/Algorithms)
-* [📝 Algorithms and data structures implemented in JavaScript](https://github.com/Uncodedtech/javascript-algorithms)
+* [Bringing all Data Structures and Algorithms under one Roof ⚡ - C/C++/Py... ](https://github.com/Uncodedtech/NeoAlgo)
+* [A collection of algorithms and data structures - Java](https://github.com/Uncodedtech/Algorithms)
+* [📝 Algorithms and data structures implemented in - JavaScript](https://github.com/Uncodedtech/javascript-algorithms)
 * [Resources for Competitive Programming](https://github.com/Uncodedtech/Competitive-Programming-Resources)
 
 ----------------------------------------------------
