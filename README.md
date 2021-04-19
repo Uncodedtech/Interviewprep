@@ -1,6 +1,6 @@
 # Interviewprep
 
-> **This repo contains a list of *forked* repositories holding important resources for a person to ace his/her next job interview!**
+> **This repository includes links to *forked* repositories which hold a list of resources that could be helpful for a person to ace his/her next job interview!**
 
 ### Coding 
 
@@ -25,5 +25,20 @@
 * [Javascript Questions](https://github.com/Uncodedtech/javascript-questions)
 * [Backend dev- Interview Ques.](https://github.com/Uncodedtech/Back-End-Developer-Interview-Questions)
 
------------------------------------------------------
+------------------------------------------------------------------
+-----------------------------------------------
+
+## Maintainer
+
+* [Suraj Verma](https://github.com/surajv311)
+
+#### Parent repository
+* [one4All](https://github.com/Surajv311/one4All)
+
+## License
+
+* [MIT](LICENSE)
+
+---------------------------
+
 
