@@ -32,6 +32,7 @@
 ### Others  
 
 * [Books/Courses/Guides/Practice/Questions etc... for interviews](https://github.com/Uncodedtech/interview)
+* [Tech. things a software developer should know...](https://github.com/Uncodedtech/every-programmer-should-know)
 
 -----------------------------------------------
 -----------------------------------------------
