@@ -14,6 +14,7 @@
 * [Resources for Competitive Programming](https://github.com/Uncodedtech/Competitive-Programming-Resources)
 * [Leetcode premium questions- old](https://github.com/Uncodedtech/leetcode_company_wise_questions)
 * [Leetcode premium questions- new](https://github.com/Uncodedtech/Coding_Notes/tree/master/leetcode-categorized)
+* [Complete FAANG Preparation](https://github.com/Uncodedtech/The-Complete-FAANG-Preparation)
 
 ----------------------------------------------------
 
