@@ -29,6 +29,7 @@
 * [Javascript Questions](https://github.com/Uncodedtech/javascript-questions)
 * [Backend dev- Interview Ques.](https://github.com/Uncodedtech/Back-End-Developer-Interview-Questions)
 * [Docker Interview Questions](https://github.com/Uncodedtech/dockerlabs/blob/master/docker/docker-interview-questions.md)
+* [SysAdmin Q/Ans](https://github.com/Uncodedtech/test-your-sysadmin-skills) 
 
 ------------------------------------------------------------------
 
