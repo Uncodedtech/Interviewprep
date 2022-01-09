@@ -33,6 +33,7 @@
 * [Popular JavaScript / React / Node / Mongo stack Interview questions + answers](https://github.com/Uncodedtech/Awesome-JavaScript-Interviews)
 * [NodeJS Interview Questions](https://github.com/Uncodedtech/nodejs-interview-questions)
 * [VueJS Interview Questions](https://github.com/Uncodedtech/vuejs-interview-questions)
+* [AngularJS Interview Questions](https://github.com/Uncodedtech/angular-interview-questions)
 
 ------------------------------------------------------------------
 
